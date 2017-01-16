@@ -1,14 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DBLab141-F on DBLab141-F</title>
+    <title>DBLab141-F</title>
     <link>https://dblab141-f.github.io/index.xml</link>
-    <description>Recent content in DBLab141-F on DBLab141-F</description>
+    <description>Recent content on DBLab141-F</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Mon, 16 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dblab141-f.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://dblab141-f.github.io/home/about.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dblab141-f.github.io/home/about.html</guid>
+      <description>
+
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;Our Laboratory is Here! [*]&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;+-----------------+
+|  std6           |
+|  std5           |
+=                 |
+|                 |
+=                 |
+|  std1     T   * |
+|  std2           |
++-----------------+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>https://dblab141-f.github.io/home/works.html</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://dblab141-f.github.io/home/works.html</guid>
+      <description>
+
+&lt;h2 id=&#34;aizu-onlone-judge-http-judge-u-aizu-ac-jp-onlinejudge&#34;&gt;&lt;a href=&#34;http://judge.u-aizu.ac.jp/onlinejudge/&#34; target=&#34;_blank&#34;&gt;AIZU ONLONE JUDGE&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Online Programming Challenge&lt;/p&gt;
+
+&lt;h2 id=&#34;sccp&#34;&gt;SCCP&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sccp2016.github.io&#34; target=&#34;_blank&#34;&gt;実践的プログラミング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;競技プログラミング&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thesis</title>
+      <link>https://dblab141-f.github.io/home/thesis.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dblab141-f.github.io/home/thesis.html</guid>
+      <description>&lt;p&gt;Theses are &lt;a href=&#34;http://ground.u-aizu.ac.jp:8080/thesis&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://dblab141-f.github.io/home/tools.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dblab141-f.github.io/home/tools.html</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://tree.taiga.io/project/ababup1192-dblab141-f/&#34; target=&#34;_blank&#34;&gt;Lab Agile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ground.u-aizu.ac.jp:8080&#34; target=&#34;_blank&#34;&gt;Lab GitBucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/dblab141-f&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackmd.io/s/HyTi-_eBg&#34; target=&#34;_blank&#34;&gt;GitHub Flow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Talk</title>
